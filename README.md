@@ -6,7 +6,7 @@
 El objetivo de la aplicación es crear una pagina web para un tienda de regalos y asi poder generar mas ventas en dicha tienda.
 
 ## Descripción de la aplicación
-La descripción de la aplicación es ...
+Es una aplicaccion donde se pueden enccontrar productos que  se encuentran en la tienda y hacer una compra asi como una busqueda de los articulos , tomando en cuenta la desccripcion,imagen y preccio del articulo.
 
 ## Descripción funcional
 Publicitar la tienda de una manera mas sencilla junto con los productos que estan a la venta ofreciendo al usuario mayor comodidad al momento de comprar ya que no necesita ir a la tienda fisica. 
