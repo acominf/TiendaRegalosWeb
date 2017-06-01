@@ -23,13 +23,19 @@ El usuario tendra la posibilidad de hacer busquedas especificas.
 ### Pagos
 El usuario realizara su pago en efectivo al momento de recibir el producto. 
 
-## Video
+### Diagrama Base de Datos
+![Base de datos](https://raw.githubusercontent.com/acominf/TiendaRegalosWeb/master/base.png)
+
+### Diagrama de Componentes
+![Diagrama de Componentes](https://raw.githubusercontent.com/acominf/TiendaRegalosWeb/master/uml.png)
+
+### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZgF1q2WLZGg" frameborder="0" allowfullscreen></iframe>
 
 ## Autor(es)
 El autor(es) del proyecto son:
 - Enrique Martinez Ramirez (@QuiqueM)
-- Jessica Nayeli Vargas Roque (@nombreUsuarioGitHub)
+- Jessica Nayeli Vargas Roque (@nayelivargas)
 
 ## Materia(s)
 - Tecnologías Web
